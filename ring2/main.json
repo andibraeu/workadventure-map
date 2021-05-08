@@ -186,7 +186,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"playAudio ",
+                 "name":"playAudio",
                  "type":"file",
                  "value":"..\/sounds\/Toilette.m4a"
                 }],
