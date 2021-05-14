@@ -176,7 +176,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/freifunk.net\/badged\/wrt54.php"
+                 "value":"https:\/\/freifunk.net\/badges\/wrt54.php"
                 }],
          "type":"tilelayer",
          "visible":true,
