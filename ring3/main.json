@@ -52,6 +52,12 @@
          "id":36,
          "name":"Router1",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/freifunk.net\/badges\/bundespostmast.php"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":64,
@@ -64,6 +70,12 @@
          "id":37,
          "name":"Router2",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/freifunk.net\/badges\/cammo.php"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":64,
@@ -76,6 +88,12 @@
          "id":38,
          "name":"Router3",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/freifunk.net\/badges\/catcontent.php"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":64,
@@ -88,6 +106,12 @@
          "id":39,
          "name":"Router4",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/freifunk.net\/badges\/empty.php"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":64,
@@ -100,6 +124,12 @@
          "id":40,
          "name":"Router5",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/freifunk.net\/badges\/nobomb.php"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":64,
@@ -493,7 +523,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.5.0",
+ "tiledversion":"1.6.0",
  "tileheight":32,
  "tilesets":[
         {
@@ -3695,6 +3725,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.5,
+ "version":"1.6",
  "width":64
 }

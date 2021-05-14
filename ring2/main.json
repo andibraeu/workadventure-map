@@ -52,6 +52,12 @@
          "id":40,
          "name":"Router6",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/freifunk.net\/badges\/pocketmodem.php"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":64,
@@ -64,6 +70,12 @@
          "id":41,
          "name":"Router7",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/freifunk.net\/badges\/sketchymounting.php"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":64,
@@ -76,6 +88,12 @@
          "id":42,
          "name":"Router8",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/freifunk.net\/badges\/snailshome.php"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":64,
@@ -88,6 +106,12 @@
          "id":43,
          "name":"Router9",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/freifunk.net\/badges\/wandwarzen.php"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":64,
@@ -100,6 +124,12 @@
          "id":44,
          "name":"Router10",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/freifunk.net\/badges\/wissen.php"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":64,
