@@ -56,7 +56,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/freifunk.net\/badges\/pocketmodem.php"
+                 "value":"https:\/\/api.freifunk.net\/badges\/pocketmodem.php"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -74,7 +74,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/freifunk.net\/badges\/sketchymounting.php"
+                 "value":"https:\/\/api.freifunk.net\/badges\/sketchymounting.php"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -92,7 +92,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/freifunk.net\/badges\/snailshome.php"
+                 "value":"https:\/\/api.freifunk.net\/badges\/snailshome.php"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -110,7 +110,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/freifunk.net\/badges\/wandwarzen.php"
+                 "value":"https:\/\/api.freifunk.net\/badges\/wandwarzen.php"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -128,7 +128,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/freifunk.net\/badges\/wissen.php"
+                 "value":"https:\/\/api.freifunk.net\/badges\/wissen.php"
                 }],
          "type":"tilelayer",
          "visible":true,
